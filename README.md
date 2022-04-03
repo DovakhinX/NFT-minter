@@ -11,7 +11,9 @@ Pinata.
 #How to setup
 
 1.git clone this repo
+
 2."npm install" (Install dependancy)
+
 3."npm install hardhat" (Install hardhat)
 4."npx hardhat compile" (Compile smartcontract)
 5.Setup account in 'Infura'and copy rinkeby url
