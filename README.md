@@ -1,15 +1,13 @@
-# Basic Sample Hardhat Project
+# NFT minter
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates a basic "NFT minter" website. You can mint "crpto punks" forged version "punked", by connecting your metamask wallet.
+Only 10 NFT is available for minting. "Rinkeby Network" would be ideal for testing this project,you can check the result in "Opensea-testnet" by connecting your metamask wallet.
 
-Try running some of the following tasks:
+Stack:
+1)React
+2)Hardhat
+3)Pinata
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+
+
+
