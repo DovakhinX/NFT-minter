@@ -6,7 +6,7 @@ import Navbar from "../src/Components/Navbar";
 
 function App() {
   let [qty, setqty] = useState(1);
-  let address = "0x73c7a6f7d439fE7255544Df18469cB6DdB9E045A";
+  let address = "paste deployed address here ";
   let account = null;
 
   ////////////////////////////////
