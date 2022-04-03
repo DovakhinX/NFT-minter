@@ -26,8 +26,8 @@ networks:{
     chainId:1337
   },
   rinkeby:{
-    url:"https://rinkeby.infura.io/v3/472739effd8947e79e60443a074a373c",
-    accounts:['32ad98ffb4935d4affdf3d3487d2909fc2a2a0a40032dc743489e05813da7e7c']
+    url:"paste infura url of own account",
+    accounts:['private key of acc to be used']
   }
 }
 
